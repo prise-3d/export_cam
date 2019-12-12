@@ -16,7 +16,7 @@ bl_info = {
     "author" : "Samuel Delepoulle",
     "description" : "Export Camera position",
     "blender" : (2, 80, 0),
-    "version" : (0, 0, 1),
+    "version" : (0, 0, 2),
     "location" : "File > Export > Camera position",
     "warning" : "",
     "category" : "Import-Export",
